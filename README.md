@@ -22,9 +22,6 @@ The dataset contains episode-level information across all seasons of *The Office
 | `Writers`      | Writers credited for the episode |
 
 
-
-## 📊 Dashboard Highlights
-
 # 📊 The Office TV Series Dashboard
 
 ### 🎬 Episode-Level Analysis
