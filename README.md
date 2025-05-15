@@ -1,4 +1,4 @@
-# The-Office-US
+# The-Office-US Tableau Dashboard
 This project is a visual analytics dashboard for the American TV series **The Office**, built to explore and analyze patterns in episode ratings, votes, and season performance. The dashboard allows users to gain insights into the show's trends over its nine-season run.
 
 ## 📁 Dataset Overview
